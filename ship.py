@@ -17,6 +17,7 @@ class Ship(Sprite):
         #移动标志
         self.moving_right = False
         self.moving_left = False
+
         #练习
         #self.moving_up = False
         #self.moving_down = False
